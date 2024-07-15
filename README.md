@@ -62,6 +62,8 @@ python setup.py install
 
 ## Passo a passo para a execução do treinamento 
 
+Para mais detalhes sobre treino e teste acesse esse [LINK](https://github.com/intel-comp-saude-ufes/2024-1-P2-Estudo-de-Arquiteturas-de-Redes-Neurais-Profundas-para-Analise-de-Imagens-Medicas/blob/main/src/squeezeNet/README.md).
+
 1. Clone esse repositório para seu computador
    - Escolha o diretório onde deseja colocar o projeto e acesso o mesmo via terminal
    ```bash
