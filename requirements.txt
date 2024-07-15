@@ -1,0 +1,11 @@
+Augmentor
+matplotlib
+numpy
+opencv-python
+pandas
+Pillow
+pydicom
+torch
+torchsummary
+tqdm
+parse
