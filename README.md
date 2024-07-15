@@ -1,4 +1,4 @@
-# Estudo de Arquiteturas de Redes Neurais Profundas para Analise de Imagens Medicas e Diagnostico Automatico
+# Estudo de Arquiteturas de Redes Neurais Profundas para Análise de Imagens Médicas e Diagnóstico Automático
 
 ### Versão em Português
 - Repositório do projeto ["2024-1-P2 - Estudo de Arquiteturas de Redes Neurais Profundas para Analise de Imagens Medicas e Diagnostico Automatico"](https://drive.google.com/file/d/10yIXg7GH2XABrs6cwZfJDO0pQTa2-Kbm/view?usp=drive_link)
