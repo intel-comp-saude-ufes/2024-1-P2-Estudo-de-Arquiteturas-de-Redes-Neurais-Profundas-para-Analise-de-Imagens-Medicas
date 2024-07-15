@@ -65,7 +65,7 @@ python setup.py install
 1. Clone esse repositório para seu computador
    - Escolha o diretório onde deseja colocar o projeto e acesso o mesmo via terminal
    ```bash
-   git clone 
+   git clone https://github.com/intel-comp-saude-ufes/2024-1-P2-Estudo-de-Arquiteturas-de-Redes-Neurais-Profundas-para-Analise-de-Imagens-Medicas
    ```
 
 2. Faça o download dos arquivos abaixo:
